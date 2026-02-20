@@ -566,10 +566,6 @@
         "primaryURL": "https://copilotstudio.microsoft.com/"
       },
       {
-        "portalName": "Copilot Studio Preview",
-        "primaryURL": "https://copilotstudio.preview.microsoft.com/"
-      },
-      {
         "portalName": "Copilot Studio agent usage estimator",
         "primaryURL": "https://microsoft.github.io/copilot-studio-estimator/"
       },
